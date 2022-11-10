@@ -1,24 +1,35 @@
+h1 {
+    font-family: Georgia;
+}
 #mainField {
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1500px;
     min-width: 500px;
+    border:0;
 }
 #Colors {
-    border: 3px solid blue;
-    padding-bottom: 100px;
+    border: 2px solid gray;
 }
 #Colors div {
     float: left;
-    max-width: 500px;
-    width: 300px;
-    margin: 0 2px;
-    
+    min-width: 50px;
+    max-width: 800px;
+    width: 450px;
+    margin: 20px 3px;
+    padding: 15px 0;
+    psotion: relative;
+    left: 0px;
+    text-align: center;
+    line-height: 2;
 }
+
+
 
 #Coolblue {
     background-color: #2d5dcc;
     position: relative;
     left: 0;
+    color: white;
 }
 
 #Pink {
