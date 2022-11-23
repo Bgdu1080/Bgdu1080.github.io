@@ -1,1 +1,1 @@
-window.MessageEvent("Hello")
+window.alert("Hello")
