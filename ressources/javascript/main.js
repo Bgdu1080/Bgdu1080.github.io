@@ -1,1 +1,1 @@
-window.prompt("Hello")
+window.MessageEvent("Hello")
